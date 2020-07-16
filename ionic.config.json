@@ -1,0 +1,8 @@
+{
+  "name": "artega",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "0df7cd18"
+}
